@@ -1,18 +1,24 @@
 # 🧮 Scientific Calculator (Java)
 
-A modern **desktop scientific calculator** built using **Java Swing**, featuring advanced mathematical operations, keyboard support, and a clean dark UI.
+A modern **scientific calculator desktop app** built using Java Swing with a clean dark UI and advanced mathematical operations.
 
 ---
 
 ## 🚀 Features
 
-* ➕ Basic operations: Addition, Subtraction, Multiplication, Division
-* 📐 Scientific functions: Square root (√), Square (x²), Power (^)
-* 🌙 Modern Dark UI
-* ⌨️ Keyboard input support
-* 🧾 Expression display (e.g., `5 + 3 = 8`)
-* 📜 History panel with clear option
-* ⚠️ Error handling (invalid input, divide by zero)
+* Basic operations (+, −, ×, ÷)
+* Scientific functions (√, x², power)
+* Dark UI 🌙
+* Keyboard support ⌨️
+* Expression display
+* History panel with clear option
+* Error handling
+
+---
+
+## 💻 Download & Run
+
+👉 Download the EXE from the repository (or release section) and double-click to run.
 
 ---
 
@@ -24,58 +30,41 @@ A modern **desktop scientific calculator** built using **Java Swing**, featuring
 
 ## 🛠️ Tech Stack
 
-* **Language:** Java
-* **Framework:** Swing (GUI)
-* **Concepts:** OOP, Event Handling
+* Java (Swing)
+* OOP Concepts
+* Event Handling
+
+---
+
+## 📚 Key Learnings
+
+* Built GUI applications using Java Swing
+* Implemented event-driven programming
+* Managed state handling for calculator operations
+* Packaged Java app into executable (.exe)
 
 ---
 
 ## ▶️ How to Run
 
-### 🔹 Option 1: Run EXE (Recommended)
+### Run EXE
 
-* Double-click `ScientificCalculator.exe`
+Double-click `ScientificCalculator.exe`
 
-### 🔹 Option 2: Run JAR
+### Run JAR
 
-```bash
+```
 java -jar ScientificCalculator.jar
 ```
-
-### 🔹 Option 3: Run in IntelliJ
-
-* Open project
-* Click ▶️ Run
-
----
-
-## 📂 Project Structure
-
-```
-ScientificCalculator/
-├── src/
-│   └── Main.java
-├── screenshot.png
-├── README.md
-```
-
----
-
-## 💡 Key Highlights
-
-* Built a complete GUI application from scratch
-* Implemented event-driven programming using Java Swing
-* Packaged project into executable (.exe) for real-world use
 
 ---
 
 ## 👨‍💻 Author
 
-**Subham Kumar**
+Subham Kumar
 📧 [shubhamkumar13082004@gmail.com](mailto:shubhamkumar13082004@gmail.com)
 🔗 LinkedIn: [www.linkedin.com/in/subhamkumar08](http://www.linkedin.com/in/subhamkumar08)
 
----
 
 ## ⭐ If you like this project
 
